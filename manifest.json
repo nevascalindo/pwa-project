@@ -1,0 +1,22 @@
+{
+    "name": "Jusicleia",
+    "short_name": "Juss",
+    "description": "Site feito por Nevasca",
+    "start_url": "https://pwa-projectnevasca.netlify.app/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "icons/navegador-da-web192.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/navegador-da-web.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
